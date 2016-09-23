@@ -1,0 +1,2 @@
+# GoTests
+Testbed for Go
